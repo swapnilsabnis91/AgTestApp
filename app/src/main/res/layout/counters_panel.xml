@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical">
+
+
+    <TextView
+        android:id="@+id/likeCounterTextView"
+        android:layout_width="@dimen/post_counters_item_width"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_like"
+        android:drawablePadding="2dp"
+        android:paddingStart="@dimen/small_intrinsic_padding"
+        android:paddingTop="@dimen/intrinsic_padding"
+        android:paddingBottom="@dimen/intrinsic_padding"
+        android:text="555"
+        android:textSize="10sp" />
+
+
+    <TextView
+        android:id="@+id/commentsCountTextView"
+        android:layout_width="@dimen/post_counters_item_width"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_comments"
+        android:drawablePadding="2dp"
+        android:paddingStart="@dimen/small_intrinsic_padding"
+        android:paddingTop="@dimen/intrinsic_padding"
+        android:paddingBottom="@dimen/intrinsic_padding"
+        android:text="555"
+        android:textSize="10sp" />
+
+
+    <TextView
+        android:id="@+id/dateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/small_intrinsic_padding"
+        android:paddingTop="@dimen/intrinsic_padding"
+        android:paddingEnd="@dimen/intrinsic_padding"
+        android:paddingBottom="@dimen/intrinsic_padding"
+        android:text="11:00AM"
+        android:textSize="10sp" />
+
+
+</LinearLayout>

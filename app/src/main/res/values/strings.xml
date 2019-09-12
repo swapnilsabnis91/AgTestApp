@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgStar</string>
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">fb_login_protocol_scheme</string>
+    <string name="Twitter_CONSUMER_KEY">Twitter_CONSUMER_KEY</string>
+    <string name="Twitter_CONSUMER_SECRET">Twitter_CONSUMER_SECRET</string>
+    <string name="internet_error">Please check your internet connection and try again</string>
+    <string name="select_login_method">Please select a Sign In method to get started.</string>
+
+</resources>

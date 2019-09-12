@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_bg_light_gray">#f2fafd</color>
+    <color name="color_card_bg_light">#efefef</color>
+    <color name="white">#FFFFFF</color>
+    <color name="icons_counter_color">#828181</color>
+    <color name="button_light_color">#4267b2</color>
+</resources>
